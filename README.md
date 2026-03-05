@@ -39,35 +39,53 @@ const harsh = {
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,js,dart&theme=dark" />
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C" /></a>&nbsp;&nbsp;
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#" /></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
 </p>
 
 ### 🎨 Frontend & Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,nextjs,flutter&theme=dark" />
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" /></a>&nbsp;&nbsp;
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3" /></a>&nbsp;&nbsp;
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" title="NextJs" /></a>&nbsp;&nbsp;
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" title="Flutter" /></a>
 </p>
 
 ### ⚙️ Backend & Runtime
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,dotnet&theme=dark" />
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS" /></a>&nbsp;&nbsp;
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" title=".NET" /></a>
 </p>
 
-### 🗄️ Databases & Backend-as-a-Service
+### 🗄️ Databases & BaaS
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,supabase&theme=dark" />
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase" /></a>&nbsp;&nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL" /></a>&nbsp;&nbsp;
+<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" title="Supabase" /></a>&nbsp;&nbsp;
+<a href="https://resend.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/resend-colored-dark.svg" width="36" height="36" alt="Resend" title="Resend" /></a>
 </p>
 
 ### ☁️ Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,linux,ubuntu,git&theme=dark" />
+<a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Microsoft Azure" title="Microsoft Azure" /></a>&nbsp;&nbsp;
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36" height="36" alt="Ubuntu" title="Ubuntu" /></a>&nbsp;&nbsp;
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux" /></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" /></a>
 </p>
 
 ### 🎛️ Tools & Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,wordpress,framer&theme=dark" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" width="48" height="48" alt="Sublime Text" title="Sublime Text" style="margin:4px;" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/resend-colored-dark.svg" width="48" height="48" alt="Resend" title="Resend" style="margin:4px;" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" width="48" height="48" alt="Hugging Face" title="Hugging Face" style="margin:4px;" />
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code" /></a>&nbsp;&nbsp;
+<a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" width="36" height="36" alt="Sublime Text" title="Sublime Text" /></a>&nbsp;&nbsp;
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" /></a>&nbsp;&nbsp;
+<a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" title="Framer" /></a>&nbsp;&nbsp;
+<a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" title="Wordpress" /></a>
+</p>
+
+### 🤖 AI & ML
+<p align="left">
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" width="36" height="36" alt="Hugging Face" title="Hugging Face" /></a>
 </p>
 
 ---
@@ -75,25 +93,48 @@ const harsh = {
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.github.com/HarshBhanushali07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-HarshBhanushali07-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=0891b2" />
-  </a>
-  <a href="https://www.linkedin.com/in/harshu-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-harshu--dev-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=0891b2" />
-  </a>
-  <a href="https://www.dev.to/harshudev" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-harshudev-0d1117?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0d1117&color=0891b2" />
-  </a>
-  <a href="https://www.gitlab.com/HarshBhanushali07" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-HarshBhanushali07-0d1117?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0d1117&color=0891b2" />
-  </a>
-  <a href="https://discord.com/users/harshu911" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-harshu911-0d1117?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117&color=0891b2" />
-  </a>
-  <a href="mailto:bhanushaliharsh434@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-bhanushaliharsh434@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=0891b2" />
-  </a>
+<a href="https://www.github.com/HarshBhanushali07" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+  </picture>
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/harshu-dev" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+  </picture>
+</a>&nbsp;&nbsp;
+<a href="https://www.dev.to/harshudev" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" />
+  </picture>
+</a>&nbsp;&nbsp;
+<a href="https://www.gitlab.com/HarshBhanushali07" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" />
+  </picture>
+</a>&nbsp;&nbsp;
+<a href="https://discord.com/users/harshu911" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" />
+  </picture>
+</a>&nbsp;&nbsp;
+<a href="mailto:bhanushaliharsh434@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" alt="Email" title="Email" />
+</a>
 </p>
+
+<a href="https://www.github.com/HarshBhanushali07" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/HarshBhanushali07?logo=github&style=for-the-badge&color=0891b2&labelColor=0d1117" />
+</a>
 
 ---
 
@@ -101,24 +142,24 @@ const harsh = {
 
 <div align="center">
 
-<a href="http://www.github.com/HarshBhanushali07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshBhanushali07&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&show_icons=true" alt="GitHub Stats" />
-</a>
-<a href="http://www.github.com/HarshBhanushali07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshBhanushali07&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
-</a>
+<!-- Row 1: Stats + Top Languages side by side -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HarshBhanushali07&show_icons=true&count_private=true&hide=issues&theme=transparent&title_color=0891b2&text_color=c9d1d9&icon_color=0891b2&border_color=21262d&border_radius=12" alt="GitHub Stats" />&nbsp;&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshBhanushali07&langs_count=8&layout=compact&theme=transparent&title_color=0891b2&text_color=c9d1d9&border_color=21262d&border_radius=12&hide=css" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
-<a href="http://www.github.com/HarshBhanushali07">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshBhanushali07&stroke=ffffff&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+<!-- Row 2: Streak Stats — using git.io/streak-stats (most reliable) -->
+<img width="60%" src="https://streak-stats.demolab.com?user=HarshBhanushali07&theme=transparent&hide_border=false&border=21262d&stroke=21262d&ring=0891b2&fire=ff6b35&currStreakNum=c9d1d9&currStreakLabel=0891b2&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&border_radius=12" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
-<a href="http://www.github.com/HarshBhanushali07">
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshBhanushali07&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</a>
+<!-- Row 3: Activity Graph -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshBhanushali07&bg_color=0d1117&color=0891b2&line=0891b2&point=ff6b35&area=true&area_color=0891b2&hide_border=false&border_color=21262d&radius=12" alt="Contribution Graph" />
+
+<br/><br/>
+
+<!-- Row 4: Trophies -->
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=HarshBhanushali07&theme=algolia&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
