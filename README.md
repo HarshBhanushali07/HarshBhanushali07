@@ -116,6 +116,7 @@ const harsh = {
 </a>&nbsp;&nbsp;
 <a href="https://www.gitlab.com/HarshBhanushali07" target="_blank" rel="noreferrer">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" />
   </picture>
@@ -128,7 +129,7 @@ const harsh = {
   </picture>
 </a>&nbsp;&nbsp;
 <a href="mailto:bhanushaliharsh434@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" alt="Email" title="Email" />
+  <img src="https://img.shields.io/badge/Gmail-bhanushaliharsh434-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0d1117&color=EA4335" alt="Email" title="Email" height="32" />
 </a>
 </p>
 
@@ -142,24 +143,28 @@ const harsh = {
 
 <div align="center">
 
-<!-- Row 1: Stats + Top Languages side by side -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HarshBhanushali07&show_icons=true&count_private=true&hide=issues&theme=transparent&title_color=0891b2&text_color=c9d1d9&icon_color=0891b2&border_color=21262d&border_radius=12" alt="GitHub Stats" />&nbsp;&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshBhanushali07&langs_count=8&layout=compact&theme=transparent&title_color=0891b2&text_color=c9d1d9&border_color=21262d&border_radius=12&hide=css" alt="Top Languages" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=HarshBhanushali07&show_icons=true&count_private=true&hide=issues&theme=tokyonight&title_color=0891b2&text_color=c9d1d9&icon_color=0891b2&bg_color=0d1117&border_color=0891b2&border_radius=10&rank_icon=github" alt="GitHub Stats" width="420" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshBhanushali07&langs_count=8&layout=compact&theme=tokyonight&title_color=0891b2&text_color=c9d1d9&bg_color=0d1117&border_color=0891b2&border_radius=10" alt="Top Languages" width="320" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=HarshBhanushali07&theme=tokyonight&background=0d1117&border=0891b2&stroke=0891b2&ring=0891b2&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&border_radius=10&width=700" alt="GitHub Streak" />
 
 <br/><br/>
 
-<!-- Row 2: Streak Stats — using git.io/streak-stats (most reliable) -->
-<img width="60%" src="https://streak-stats.demolab.com?user=HarshBhanushali07&theme=transparent&hide_border=false&border=21262d&stroke=21262d&ring=0891b2&fire=ff6b35&currStreakNum=c9d1d9&currStreakLabel=0891b2&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&border_radius=12" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshBhanushali07&bg_color=0d1117&color=0891b2&line=0891b2&point=ff6b35&area=true&area_color=0891b220&hide_border=false&border_color=0891b2&radius=10&custom_title=Harsh%27s%20Contribution%20Graph" alt="Contribution Graph" width="750" />
 
 <br/><br/>
 
-<!-- Row 3: Activity Graph -->
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarshBhanushali07&bg_color=0d1117&color=0891b2&line=0891b2&point=ff6b35&area=true&area_color=0891b2&hide_border=false&border_color=21262d&radius=12" alt="Contribution Graph" />
-
-<br/><br/>
-
-<!-- Row 4: Trophies -->
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=HarshBhanushali07&theme=algolia&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=HarshBhanushali07&theme=algolia&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" alt="GitHub Trophies" width="750" />
 
 </div>
 
